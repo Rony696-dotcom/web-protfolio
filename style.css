@@ -82,14 +82,15 @@ h1{
     
 }
 .final-add{
-    margin-left: 20%;
+    margin-left: 12.5%;
     padding: 5%;
    position: relative;
 }
 .work-part{
-    position: absolute;;
-    bottom: 40%;
-    left: 200px;
+    position:absolute;
+    bottom: 35%;
+    left: 12%;
+    
 
 }
 .work-part h2{
@@ -99,7 +100,7 @@ h1{
 .buttom-add{
     position: absolute;
     bottom: 50%;
-    right: 500px;
+    right: 450px;
 
 }
 .footer-part{
