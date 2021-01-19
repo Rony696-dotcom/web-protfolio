@@ -1,0 +1,127 @@
+
+body{
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.name-h{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient( gold,	rgb(238, 255, 0));
+    padding: 20px 60px;
+    border-radius: 5%;
+    color: rgb(0, 0, 0);
+    font-weight: 700px;
+    
+    
+}
+.half-width p{
+    margin-bottom: 60px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+   padding:2%;
+   height: 500px;
+}
+.half-width img{
+    width: 70%;
+}
+.gap-close2{
+    margin-left: 100px;
+}
+
+.mid-name{
+    font-size: 40px;
+    text-align:center;
+}
+.name-c{
+    color: red;
+}
+.look-good{
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 5px;
+
+}
+.thred-width{
+    width: 26%;
+    margin-left: 2%;
+    float: left;
+    padding: 1%;
+    border-radius: 10px;
+
+}
+.thred-width img{
+    width: 100%;
+    
+}
+.project-area{
+   margin-left:5% ;
+    height: 800px;
+    
+    padding: 10px;
+}
+.first-area{
+    height: 500px;
+}
+.second-area{
+    height: 650px;
+}
+.dual-class{
+    background-color: rgb(252, 246, 246);
+
+}
+.final-add img{
+    width: 900px;
+    
+    
+}
+.final-add{
+    margin-left: 20%;
+    padding: 5%;
+   position: relative;
+}
+.work-part{
+    position: absolute;;
+    bottom: 40%;
+    left: 200px;
+
+}
+.work-part h2{
+    font-size: 40px;
+    color: white;
+}
+.buttom-add{
+    position: absolute;
+    bottom: 50%;
+    right: 500px;
+
+}
+.footer-part{
+    text-align: center;
+    height: 200px;
+    line-height: 10px;
+}
+.footer-part img{
+    width: 40px;
+    margin-left: 25px;
+    
+}
+.footer-part h5{
+    color: grey;
+    font-size: 30px;
+}
+.footer-part h3{
+    color:navy;
+    font-size: 40px;
+}
+footer{
+    text-align: center;
+    margin: 40px;
+
+}
